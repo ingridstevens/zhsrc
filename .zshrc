@@ -96,3 +96,5 @@ alias desk='cd /Users/ingridstevens/Desktop'
 
 alias l="ls -lrt"
 alias gs="git status"
+alias ga="git add"
+alias gp="git pull"
