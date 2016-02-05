@@ -1,5 +1,4 @@
-# zhsrc
-ZSH dotfile
+# Edit your Oh My ZSH Dotfile
 
 This README will be helpful if you're trying to customize your ZSH dotfile.
 
@@ -21,6 +20,6 @@ For example, I'd navigate to a repo and try `$ gs` to see if I get the same resu
 
 There's a list of themes with screenshots here: [ZSH Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
-I chose the [miloshadzic theme](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#miloshadzic) 
+I chose the [miloshadzic theme](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#miloshadzic) because it clearly displays if my branch is clean using a lightning bolt, which branch I'm on, and which repo I'm in.
 
 If you want to change your theme, edit the `ZSH_THEME` variable at the top of your .zshrc file.
